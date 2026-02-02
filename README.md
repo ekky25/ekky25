@@ -2,7 +2,6 @@
 
 <p align="center">
 💻 Minecraft & Discord Bot Developer  
-🚀 Roblox Game Dev  
 ⚔️ Skript, Java, Node.js
 </p>
 
