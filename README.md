@@ -22,7 +22,7 @@
 ### 🎮 Üzerinde Çalıştıklarım
 -  DarkCraft Minecraft
 -  Türk PvP Tierlist Discord Botu
--  DarkSmp Minecrat
+-  DarkSmp Minecraft
 
 ---
 
