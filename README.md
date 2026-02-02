@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ekkydev&label=Profil+Görüntülenme&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ekky25&label=Profil+Görüntülenme&color=blue&style=flat" />
 </p>
 
 ---
@@ -24,9 +24,9 @@
 
 ### 📊 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekkydev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ekky25&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekkydev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekky25&layout=compact&theme=tokyonight" />
 </p>
 
 ---
