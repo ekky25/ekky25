@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Selam 👋 Ben Ekky</h1>
 
-<!--
-**ekky25/ekky25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Minecraft & Discord Bot Developer  
+🚀 Roblox Game Dev  
+⚔️ Skript, Java, Node.js
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kullandığım Teknolojiler
+- Java (Minecraft Plugins)
+- Skript
+- Node.js (Discord Bots)
+
+---
+
+### 📊 GitHub İstatistiklerim
+![stats](https://github-readme-stats.vercel.app/api?username=ekkydev&show_icons=true&theme=tokyonight)
+
+---
+
+### 🎮 Üzerinde Çalıştıklarım
+-  DarkCraft Minecraft
+-  Türk PvP Tierlist Discord Botu
+-  DarkSmp Minecrat
+
+---
+
+### 📫 Bana Ulaş
+Discord: **ekky25**
