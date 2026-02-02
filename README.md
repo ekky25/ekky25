@@ -22,15 +22,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekky25&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekky25&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🎮 Üzerinde Çalıştıklarım
 - 🌑 **DarkCraft Minecraft**
 - ⚔️ **Türk PvP Tierlist Discord Botu**
