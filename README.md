@@ -18,7 +18,7 @@
 
 - Java (Minecraft Plugins)
 - Skript
-- Node.js (Discord Bots)
+- Node.js (Discord Bots & API )
 
 ---
 
@@ -26,6 +26,7 @@
 - 🌑 **DarkCraft Minecraft**
 - ⚔️ **Türk PvP Tierlist Discord Botu**
 - 🧱 **DarkSmp Minecraft**
+- **Türk PvP Tierlist API sistemi**
 
 ---
 
