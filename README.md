@@ -23,10 +23,11 @@
 ---
 
 ### 🎮 Üzerinde Çalıştıklarım
-- 🌑 **DarkCraft Minecraft**
-- ⚔️ **Türk PvP Tierlist Discord Botu**
-- 🧱 **DarkSmp Minecraft**
-- **Türk PvP Tierlist API sistemi**
+- 🌑 DarkCraft Minecraft
+- ⚔️ Türk PvP Tierlist Discord Botu
+- 🧱 DarkSmp Minecraft
+- Türk PvP Tierlist API sistemi
+- DarkBox Minecrat plugins
 
 ---
 
