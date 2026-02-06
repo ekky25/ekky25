@@ -13,7 +13,7 @@
 
 ### 🛠️ Kullandığım Teknolojiler
 <p>
-  <img src="https://skillicons.dev/icons?i=java,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,discordjs" />
 </p>
 
 - Java (Minecraft Plugins)
